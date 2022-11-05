@@ -1,1 +1,1 @@
-# pong-project
+# pong-game
